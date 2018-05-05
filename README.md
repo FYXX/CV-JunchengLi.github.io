@@ -1,3 +1,5 @@
+# 为保护原作者权益，以下介绍仍以原作者撰写的教程为例。
+
 # BY Blog
 
 > 下面是博客的搭建教程，这个教程修改自 [Hux](https://github.com/Huxpro/huxpro.github.io) 。
